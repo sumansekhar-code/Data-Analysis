@@ -41,6 +41,7 @@ The **Sales Data Analysis** project aims to analyze sales data for a company to 
 
 ## Results
 - Visualized key sales trends over time.
+- KPI Demonstration.
 - Identified top-performing products and categories.
 
 ## How to Reproduce
