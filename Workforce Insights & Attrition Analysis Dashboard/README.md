@@ -19,17 +19,21 @@ The project analyzes employee attrition across different departments, job roles,
          -CleanedWorkforceData.ipynb
       Results/
          Charts/
-            -attr-by-age-group.png
-            -attr-by-dept.png
-            -attr-by-gender.png
-            -attr-by-job-roles.png
-            -attr-distr.png
-            -correl-heatmap.png
-            -emp-distr-by age-group.png
+            -Age_Distribution.png
+            -Attrition_by_Department.png
+            -Attrition_by-Jobrole.png
+            -Attrtion_by_Gender_and_Agegroup.png
+            -Employee_and_attrition_by_Year.png
+            -Performance_rating-by_Department.png
+            -Workforce_charts.gif
          Dashboard/
             -Workforce_Analytics_Dashboard.pbix
             -Workforce_Analytics_Dashboard.pdf
-            -Workforce_Analytics-Dashboard.jpg
+            -Attrition_Analysis.png
+            -Employee_Demographics.png
+            -Executive_Summary.png
+            -Performance_and_Engagement.png
+            -Workforce_Dashboard.gif
 
 ## Tools and Technologies
 - **Programming Languages**: Python (NumPy, Pandas, Matplotlib, Seaborn)
@@ -48,4 +52,5 @@ The project analyzes employee attrition across different departments, job roles,
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone "https://github.com/yourusername/Workforce_Insights_&_Attrition_Analysis.git"
+
+   git clone "https://github.com/sumansekhar-code/Workforce_Insights_&_Attrition_Analysis.git"
